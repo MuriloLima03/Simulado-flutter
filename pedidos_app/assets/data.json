@@ -1,0 +1,13 @@
+{
+    "clients": [
+      {"id": 1, "name": "Cliente A", "address": "argentina"},
+      {"id": 2, "name": "Cliente B", "address": "Reino dos cogumelos"},
+      {"id": 3, "name": "Cliente C", "address": "Hyrule"}
+    ],
+    "products": [
+      { "id": 1, "name": "Produto A", "price": 10.0 },
+      { "id": 2, "name": "Produto B", "price": 20.0 },
+      { "id": 3, "name": "Produto C", "price": 30.0 }
+    ]
+  }
+  
